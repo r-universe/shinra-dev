@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "memuse",
+    "oncran": true
+  }
+]
